@@ -1,0 +1,737 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>大连交通大学软件学院</title>
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	width:317px;
+	height:187px;
+	z-index:0;
+	visibility: hidden;
+	top: 170px;
+}
+#apDiv2 {
+	position:absolute;
+	width:317px;
+	height:187px;
+	z-index:0;
+	visibility: hidden;
+	top: 170px;
+}
+#apDiv3 {
+	position:absolute;
+	width:317px;
+	height:187px;
+	z-index:0;
+	visibility: hidden;
+	top: 170px;
+}
+#apDiv4 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+<!--
+#apDiv5 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv6 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv7 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv8 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv9 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv10 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv11 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv12 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv13 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+#apDiv14 {
+	position:absolute;
+	width:105px;
+	height:80px;
+	z-index:1;
+	visibility: hidden;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+}
+body,td,th {
+	font-size: 12px;
+	color: #666666;
+}
+a {
+	font-size: 12px;
+	color: #666666;
+}
+a:link {
+	text-decoration: none;
+	color: #333333;
+}
+a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.style1 {color: #000000}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('../image/index_r3_c2_f2.gif','../image/index_r5_c2_f2.gif','../image/index_r7_c2_f2.gif','../image/index_r9_c2_f2.gif','../image/index_r11_c2_f2.gif','../image/index_r13_c2_f2.gif','../image/index_r15_c2_f2.gif','../image/index_r17_c2_f2.gif')">
+<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../image/index_r1_c1.gif" width="775" height="79"></td>
+  </tr>
+</table>
+<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="12"><table id="__01" width="470" height="71" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<a href="http://www.stdjtu.edu.cn/En_home.htm"><img src="../image/index_r2_c1_01.gif" width="83" height="19" alt="" onfocus="this.blur()" border="0"></a></td>
+		<td rowspan="3">
+			<img src="../image/index_r2_c1_02.gif" width="387" height="71" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="http://www.stdjtu.edu.cn/Ja_home.htm"><img src="../image/index_r2_c1_03.gif" width="83" height="22" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../image/index_r2_c1_04.gif" width="83" height="30" alt=""></td>
+	</tr>
+</table></td>
+    <td><img src="../image/copy%20index_r2_c8.gif" width="305" height="71"></td>
+  </tr>
+</table>
+<table width="776" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+            
+    <td width="150" height="406" valign="top" background="../image/index_r3_c1.gif" style="background-repeat:no-repeat"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="5" colspan="2"></td>
+      </tr>
+      <tr>
+        
+        <td width="100%" align="center"><table width="108" border="0" background="images/xiao-03.gif" >
+  <tr>
+      <td onMouseOver="MM_showHideLayers('apDiv7','','show')" onMouseOut="MM_showHideLayers('apDiv7','','hide')"><img src="../image/index_r3_c2.gif"><div class="STYLE17 STYLE25 STYLE26 STYLE27" id="apDiv7">
+                <table height="77" bgcolor="#4AAEBD">
+                  <tr>
+        <td width="131" bgcolor="transparent"><div align="center"><a href="jianjie.asp"> 
+                        <font color="#FFFFFF">学院简介</font></a></div></td>
+      </tr>
+      <tr><td bgcolor="transparent"><div align="center"><a href="sencery.asp"><font color="#FFFFFF">校园风光</font></a></div></td></tr><tr>
+      <td bgcolor="transparent"><div align="center"><a href="lidao.asp"><font color="#FFFFFF">领导机构</font></a></div></td></tr>
+      </table>
+      </div>    </td>
+  </tr>
+   <tr>
+      <td onMouseOver="MM_showHideLayers('apDiv13','','show')" onMouseOut="MM_showHideLayers('apDiv13','','hide')"><img src="../image/index_r13_c2.gif"><div class="STYLE17 STYLE25 STYLE26 STYLE27" id="apDiv13">
+                <table height="120" bgcolor="#4AAEBD">
+                  <tr><td width="131" bgcolor="transparent"><div align="center"><a href="doc_instruction.asp"><font color="#FFFFFF">师资队伍</font></a></div></td>
+      </tr>
+      <tr><td bgcolor="transparent"><div align="center"><a href="xkjys.asp"><font color="#FFFFFF">学科教研室</font></div></td></tr><tr>
+      <td bgcolor="transparent"><div align="center"><a href="http://202.199.128.104:8080/Center//index.jsp"><font color="#FFFFFF">实验教学中心</font></a></div></td></tr>
+      <td bgcolor="transparent"><div align="center"><a href="kejibu/kexueyanjiu.htm"><font color="#FFFFFF">科学研究</font></a></div></td></tr>
+	  <td bgcolor="transparent"><div align="center"><a href="http://bak.stdjtu.edu.cn:8080/k/temp.htm"><font color="#FFFFFF">课件下载</font></a></div></td></tr>
+      </table>
+      </div>    </td>
+  </tr>
+   <tr>
+      <td onMouseOver="MM_showHideLayers('apDiv10','','show')" onMouseOut="MM_showHideLayers('apDiv10','','hide')"><img src="../image/index_r5_c2.gif"><div class="STYLE17 STYLE25 STYLE26 STYLE27" id="apDiv10">
+                <table width="131" height="211" bgcolor="#4AAEBD">
+                  <tr><td width="131" bgcolor="transparent"><div align="center"><a href="xzb.asp"><font color="#FFFFFF">行政部</font></a></div></td></tr>
+      <tr><td bgcolor="transparent"><div align="center"><a href="jwb.htm"><font color="#FFFFFF">行政部（教学管理）</font></a></div></td></tr><tr>
+      <td bgcolor="transparent"><div align="center"><a href="xsb.asp"><font color="#FFFFFF">学工部</font></a></div></td></tr>
+      <td bgcolor="transparent"><div align="center"><a href="cwb.asp"><font color="#FFFFFF">财务部</font></a></div></td></tr>
+	  <td bgcolor="transparent"><div align="center"><a href="hqb.asp"><font color="#FFFFFF">后勤部</font></a></div></td></tr>
+      <td bgcolor="transparent"><div align="center"><a href="yjsb.asp"><font color="#FFFFFF">研究生及培训部</font></a></div></td></tr>
+	  <td bgcolor="transparent"><div align="center"><a href="kjb.asp"><font color="#FFFFFF">科技及人事部</font></a></div></td></tr>
+
+	  <td bgcolor="transparent"><div align="center"><a href="wlb.asp"><font color="#FFFFFF">外联及毕业就业指导部</font></a></div></td></tr>
+      </table>
+      </div>    </td>
+  </tr>
+ 
+  <tr>
+    <td><a href="jiaowu.asp"><img src="../image/index_r88_c2.gif" border="0"></a></td>
+  </tr>	
+   <tr>
+      <td onMouseOver="MM_showHideLayers('apDiv9','','show')" onMouseOut="MM_showHideLayers('apDiv9','','hide')"><img src="../image/index_r11_c2.gif"><div class="STYLE17 STYLE25 STYLE26 STYLE27" id="apDiv9">
+                <table height="101" bgcolor="#4AAEBD">
+                  <tr><td width="131" height="25" bgcolor="transparent"><div align="center"><a href="doc_yanjiusheng.asp"><font color="#FFFFFF">研究生</font></a></div></td>
+      </tr>
+      <tr><td height="23" bgcolor="transparent"><div align="center"><a href="benke.asp"><font color="#FFFFFF">本科</font></a></div></td></tr><tr>
+      <td height="23" bgcolor="transparent"><div align="center"><a href="http://gz.stdjtu.edu.cn/"><font color="#FFFFFF">高职</font></a></div></td></tr><tr>
+      <td bgcolor="transparent"><div align="center"><a href="person.asp"><font color="#FFFFFF">人才引进</font></a></div></td></tr>
+      </table>
+      </div>    </td>
+  </tr>
+  
+ <tr>
+      <td onMouseOver="MM_showHideLayers('apDiv8','','show')" onMouseOut="MM_showHideLayers('apDiv8','','hide')"><img src="../image/index_r17_c2.gif"><div class="STYLE17 STYLE25 STYLE26 STYLE27" id="apDiv8">
+                <table height="66" bgcolor="#4AAEBD">
+                  <tr><td width="131" bgcolor="transparent"><div align="center"><a href="gh.asp"><font color="#FFFFFF">工会</font></a></div></td>
+      </tr>
+      <tr><td bgcolor="transparent"><div align="center"><a href="http://bak.stdjtu.edu.cn:8080/tuanwei/"><font color="#FFFFFF">团委</font></a></div></td></tr><tr>
+      </table>
+      </div>    </td>
+  </tr>
+  <tr>
+      <td><a href="rules.asp"><img src="../image/index_r7_c2.gif" border="0"></a></td>
+  </tr>
+   <tr>
+      <td onMouseOver="MM_showHideLayers('apDiv11','','show')" onMouseOut="MM_showHideLayers('apDiv11','','hide')"><img src="../image/index_r9_c2.gif"><div class="STYLE17 STYLE25 STYLE26 STYLE27" id="apDiv11">
+                <table width="131" height="192" bgcolor="#52B2C6">
+                  <tr><td width="131" bgcolor="transparent"><div align="center"><a href="info/tel.htm"><font color="#FFFFFF">电话查询</font></a></div></td></tr>
+      <tr><td bgcolor="transparent"><div align="center"><a href="http://bak.stdjtu.edu.cn/employment.asp?newsid=2052"><font color="#FFFFFF">课程表查询</font></a></div></td></tr><tr>
+      <td bgcolor="transparent"><div align="center"><a href="info/bus_w.htm" target="_blank"><font color="#FFFFFF">班车查询</font></a></div></td></tr>
+      <td bgcolor="transparent"><div align="center"><a href="info/timesummer.htm" target="_blank"><font color="#FFFFFF">作息时间查询</font></a></div></td></tr>
+	  <td bgcolor="transparent"><div align="center"><a href="info/doc.htm" target="_blank"><font color="#FFFFFF">行政部相关表格下载</font></a></div></td></tr>
+      <td bgcolor="transparent"><div align="center"><a href="info/service.htm" target="_blank"><font color="#FFFFFF">出行参考</font></a></div></td></tr>
+	  <td bgcolor="transparent"><div align="center"><a href="../image/119.jpg" target="_blank"><font color="#FFFFFF">学生公寓重点部位逃生及灭火力量布署图</font></a></div></td></tr>
+      </table>
+      </div>    </td>
+  </tr>	
+    <tr>
+            <td ><a href="jw.asp"><img src="../image/index_r15_c2.gif" border="0"></a></td>
+  </tr>
+   <tr>
+    <td><a href="index.asp"><img src="../image/index_r19_c2.gif" border="0"></a></td>
+  </tr>	
+</table></td>
+      </tr>
+   
+    </table></td>
+
+
+    <td valign="top"><table width="625" height="30" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td align="left" valign="middle" width="100%"><img src="../image/jiaoliu.gif" width="624" height="24"></td>
+      </tr>
+    </table>
+    <table width="625"  border="0" cellspacing="0" cellpadding="0">
+        
+          <tr>
+            <td align="left"><table width="625" border="0" cellspacing="0" cellpadding="0">
+                    <tr > 
+                      <td> <div align="right"></div>
+                        <table width="90%" border="0" cellpadding="0" cellspacing="0" align="center">
+                          <tr> 
+                            <td height="234" colspan="15" valign="top"> <table width="625" border="0" cellspacing="0" cellpadding="0">
+                              </table>
+                              
+                              
+                                
+                             
+                              <table width="625" border="0" cellpadding="0" cellspacing="0">
+                                <tr> 
+                                  <td valign="top"> <form name="form1" method="get" action="news.asp">
+                                      <table width="625" border="0" align="center" cellpadding="0" cellspacing="0">
+                                        <tr> 
+                                          <td width="625"> <div align="center"> 
+                                              <table width="625" height="24" border="0" cellspacing="0" cellpadding="0">
+                                                <tr align="center">
+                                                  <td height="24" valign="middle"> 
+                                                    <div align="center"> <font color="#000000">
+                                                      <select name="part" id="part">
+                                                        <option value="0" selected>显示全部</option>
+                                                        <option value="1">软件学院</option>
+                                                        <option value="2">行政部</option>
+                                                        <option value="3">教务部</option>
+                                                        <option value="4">学生部</option>
+                                                        <option value="5">后勤部</option>
+                                                        <option value="6">科技部</option>
+                                                        <option value="7">网络中心</option>
+														<option value="8">实验中心</option>
+                                                        <option value="9">研究生部</option>
+                                                        <option value="10">外联部</option>
+                                                      </select>
+                                                      &nbsp; </font> 
+                                                      <input name="find" type="text" id="find2">
+                                                      <input  type="submit" name="Submit" value="提交">
+                                                      <table width="625" border="0" cellspacing="0" cellpadding="0" align="center">
+                                                        <tr> 
+                                                          <td height="10"></td>
+                                                        </tr>
+                                                      </table>
+      <table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                                        <tr bgcolor="#99CCCC"> 
+                                                          <td width="3%"> <div align="center"></div></td>
+                                                          <td width="16%"> 
+                                                            <div align="center">发布部门</div></td>
+                                                          <td width="66%" bgcolor="#99CCCC"> 
+                                                            <div align="center">标题</div></td>
+                                                          <td width="10%"> <div align="center">发布日期</div></td>
+                                                          <td width="5%"> <div align="center"></div></td>
+                                                        </tr>
+                                                      </table>
+                                                    </div>
+                                                    <div align="center"><a href="news.asp?show=1" class="normal"></a></div></td>
+                                                </tr>
+                                              </table>
+                                            </div></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3020">关于工程训练重修考试的通知</a></td>
+                                                <td width="11%"> <div align="center">2009-1-9 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3019">07级电工与电子技术实验安排08-09-2</a></td>
+                                                <td width="11%"> <div align="center">2009-1-7 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3018">基础日语听力2重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2009-1-6 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3017">基础日语听力1重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2009-1-6 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3013">工程制图A、日语视听3、日语视听5等部分重修课程考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-29 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3010">大学英语口语1重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-29 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3009">高等代数（B）Ⅱ重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-29 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3008">07-08-2重修退款钱未打入卡的同学</a></td>
+                                                <td width="11%"> <div align="center">2008-12-26 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3007">英语听力1、线性代数等部分重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-26 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3003">vb.net和软质量工程等考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-24 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3002">高等代数2重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-24 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=3001">大学英语5考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-24 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2999">期末考试日程总表</a></td>
+                                                <td width="11%"> <div align="center">2008-12-24 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2998">计算机基础实践重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-23 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2997">财务会计、流体力学、等部分重修考试安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-23 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2994">数据结构考场安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-20 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2990">机械设计、计算机组织与结构等部分重修课程考试时间安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-17 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2989">大学英语四六级监考人员须知</a></td>
+                                                <td width="11%"> <div align="center">2008-12-16 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                          <td><table width="625" border="0" cellpadding="4" cellspacing="1" align="center">
+                                              <tr class="rlist1"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2988">大学英语四六级考生考试须知</a></td>
+                                                <td width="11%"> <div align="center">2008-12-16 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                        <tr> 
+                                        <td > <table width="625" border="0" cellspacing="1" cellpadding="4" align="center">
+                                              <tr class="rlist2"> 
+                                                <td width="4%"> <div align="center"><img src="../image/edit.gif" width="18" height="13"></div></td>
+                                                <td width="17%"> 
+                                                  <div align="center">教务部</div></td>
+                                                <td width="63%"><a href="news.asp?newsid=2986">材料成型原理、大学物理AII、工程材料等部分重修考试时间安排</a></td>
+                                                <td width="11%"> <div align="center">2008-12-15 </div></td>
+                                                <td width="5%"> <div align="center"> 
+                                                    
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        
+                                      </table>
+                                    </form></td>
+                                </tr>
+                                <tr> 
+                                  <td > <table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                      <tr> 
+                                        <td colspan="3" valign="top"> <div align="center">
+                                            
+                                            目前共有记录<font color="#000000"><strong>544</strong></font>条，每页显示<font color="#000000"><strong>20</strong></font>条 
+                                            当前<font color="#000000"><strong>1/28</strong></font>页 &nbsp;&nbsp;分页 
+                                            <a href='jwzx.asp?part=0&page=1'><strong><font color='000000'>1</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=2'><strong><font color='000000'>2</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=3'><strong><font color='000000'>3</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=4'><strong><font color='000000'>4</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=5'><strong><font color='000000'>5</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=6'><strong><font color='000000'>6</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=7'><strong><font color='000000'>7</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=8'><strong><font color='000000'>8</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=9'><strong><font color='000000'>9</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=10'><strong><font color='000000'>10</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=11'><strong><font color='000000'>11</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=12'><strong><font color='000000'>12</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=13'><strong><font color='000000'>13</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=14'><strong><font color='000000'>14</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=15'><strong><font color='000000'>15</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=16'><strong><font color='000000'>16</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=17'><strong><font color='000000'>17</font></strong></a>&nbsp;<a href='jwzx.asp?part=0&page=18'><strong><font color='000000'>18</font></strong></a>&nbsp;
+                                          </div></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                              <p> 
+                                 </td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    
+    </table></td>
+  </tr>
+                         
+                        </table>
+          </td>
+        </tr>
+      </table>
+      <table width="25" height="1" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="12"></td>
+          <td width="13"></td>
+        </tr>
+      </table>
+      </td>
+  </tr>
+</table>
+<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="24" align="center" background="../image/index_r16_c1.gif"><a href="http://www.djtu.edu.cn/">交大首页</a> <a href="#">英语在线</a> <a href="http://219.216.192.3/lgzx/">高职学院</a> <a href="#">就业网站</a> <a href="http://www2.stdjtu.edu.cn/sixiang/index.asp">Ｅ海扬帆</a> <a href="http://www2.stdjtu.edu.cn/office/sjk/index.htm">精品课程</a> <a href="mailto:sti@stdjtu.edu.cn">院长信箱</a> <a href="#">视频点播</a> <a href="http://mail.stdjtu.edu.cn/">邮件服务 </a><a href="http://www.stdjtu.edu.cn/sfgs.htm">收费公示</a></td>
+  </tr>
+</table>
+<table width="775" height="1" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="1" b bgcolor="#999999"></td>
+  </tr>
+</table>
+<table width="775" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td width="201"><img src="../image/index_r18_c1.gif" width="138" height="69"></td>
+    <td width="574">大连交通大学软件学院版权所有 Coptright &copy; Dalian Jiaotong University
+    <p>地址：大连市旅顺口经济开发区兴发路216号 邮编：116052</p></td>
+  </tr>
+</table>
+</body>
+</html>
